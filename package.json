@@ -1,0 +1,11 @@
+{
+  "name": "flow-lab-pro",
+  "version": "1.0.0",
+  "description": "Flow Lab Pro static website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

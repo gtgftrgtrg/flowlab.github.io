@@ -4,7 +4,9 @@
   "description": "Flow Lab Pro static website",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "serve": "firebase emulators:start --only hosting",
+    "deploy": "firebase deploy --only hosting"
   },
   "author": "",
   "license": "ISC"
